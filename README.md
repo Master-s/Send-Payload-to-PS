@@ -7,8 +7,8 @@ Send Payload to PS
 
 pip install flask
 ```
-## server
-```Run cmd
+## server Run cmd
+```
 python server.py
 ```
 ## open index.html
