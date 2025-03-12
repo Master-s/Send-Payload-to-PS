@@ -12,3 +12,8 @@ pip install flask
 python server.py
 ```
 ## open index.html
+
+
+
+https://github.com/user-attachments/assets/35acc892-6981-42dc-82db-c82fe8dbf814
+
