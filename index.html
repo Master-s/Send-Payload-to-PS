@@ -122,11 +122,11 @@
             return;
         }
 
-        let file = fileInput.files[0];
+         let file = fileInput.files[0];
 
-        if (!file.name.endsWith(".bin", ".elf")) {
-            statusDiv.innerHTML = "❌ Please select a file format .elf, .bin !";
-            return;
+         if (!file.name.endsWith(".bin") && !file.name.endsWith(".elf")) {
+         statusDiv.innerHTML = "❌ Please select a file format .elf or .bin!";
+          return;
         }
 
         let formData = new FormData();
