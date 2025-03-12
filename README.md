@@ -6,6 +6,8 @@ Send Payload to PS
 ```Install library
 
 pip install flask
+
+pip install flask-cors
 ```
 ## server Run cmd
 ```
