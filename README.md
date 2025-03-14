@@ -12,11 +12,13 @@ Open the iSH application and enter the following commands:
 To verify Python installation, type:
 
 ```
-python3 --version
+apk add python3 py3-pip
+pip install flask
 ```
 If Python is installed, the version will appear as follows:
 
 ```
+python3 --version
 Python 3.x.x
 ```
 ## If the version doesn't appear, Python isn't installed. You can reinstall it using:
@@ -26,8 +28,9 @@ apk add python3
 ```
 ## To verify pip installation, type:
 
-
+```
 pip3 --version
+```
 ## If pip is installed, the version will appear as follows:
 
 
