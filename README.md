@@ -4,7 +4,7 @@ You must create a server on your iPhone with default port 5000 so that the page 
 # 
 ![Screenshot 2025-03-12 193947](https://github.com/user-attachments/assets/48f65be2-7b47-4a32-99f8-c421bbcd2954)
 
-## Verify Python and pip installation
+## Verify Python and pip, Flask, Flask-cors, socat installation
 Open the iSH application and enter the following commands:
 
 [Download Apple Store IOS](https://apps.apple.com/us/app/ish-shell/id1436902243)
