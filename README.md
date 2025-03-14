@@ -56,6 +56,10 @@ pip3 install flask
 
 pip3 install flask-cors
 ```
+```socat
+apk add socat
+```
+
  Verify that all prerequisites are installed at once
 
 ## You can verify that all packages are installed with the command:
