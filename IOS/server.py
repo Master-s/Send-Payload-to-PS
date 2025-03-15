@@ -29,7 +29,7 @@ def send_payload():
     # Execute the command in a separate thread to avoid response delay
     def send_file():
         try:
-            subprocess.Popen(["socat\socat.exe", "-t", "99999999", "-", f"TCP:{ip}:{port}"], stdin=open(file_path, "rb"))
+            subprocess.Popen(["socat", "-t", "99999999", "-", f"TCP:{ip}:{port}"], stdin=open(file_path, "rb"))
         except Exception as e:
             print(f"❌ Error sending the file: {e}")
 
