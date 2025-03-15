@@ -2,7 +2,8 @@
 
 You must create a server on your iPhone with default port 5000 so that the page can send the payload to PS.
 # 
-![Screenshot 2025-03-12 193947](https://github.com/user-attachments/assets/48f65be2-7b47-4a32-99f8-c421bbcd2954)
+![Screenshot 2025-03-15 083136](https://github.com/user-attachments/assets/33920137-40db-47bb-909d-c308a36d0f49)
+
 
 ## Verify Python and pip, Flask, Flask-cors, socat installation
 Open the iSH application and enter the following commands:
@@ -75,7 +76,7 @@ python3 -c "import flask; print('Flask is installed!')"
 
 Flask is installed!
 
-## Files will be uploaded soon
+## 
 
 https://github.com/user-attachments/assets/35acc892-6981-42dc-82db-c82fe8dbf814
 
