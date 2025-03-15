@@ -1,4 +1,4 @@
-# Send-Payload-to-PS
+# HTTP Send-Payload-to-PS
 
 You must create a server on your iPhone with default port 5000 so that the page can send the payload to PS.
 # 
