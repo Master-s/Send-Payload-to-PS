@@ -76,7 +76,13 @@ python3 -c "import flask; print('Flask is installed!')"
 
 Flask is installed!
 
-## 
+## Run
+```
+FLASK_APP=server.py FLAS
+K_ENV=development flask run --host=0.0.0.0
+```
+
+https://youtu.be/CFVsWxw8svU
 
 https://github.com/user-attachments/assets/35acc892-6981-42dc-82db-c82fe8dbf814
 
