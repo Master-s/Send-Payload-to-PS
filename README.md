@@ -2,7 +2,8 @@
 
 You must create a server on your iPhone with default port 5000 so that the page can send the payload to PS.
 # 
-![Screenshot 2025-03-15 083136](https://github.com/user-attachments/assets/33920137-40db-47bb-909d-c308a36d0f49)
+![Screenshot 2025-03-15 083136-Recovered](https://github.com/user-attachments/assets/83ac9cd2-095d-418d-bb47-7b2938576d60)
+
 
 
 ## Verify Python and pip, Flask, Flask-cors, socat installation
@@ -84,7 +85,7 @@ Lua-ios
 ```
 python3 lua.py
 ```
-![image](https://github.com/user-attachments/assets/cf381cb5-e8ea-47db-9cc6-3673d097ed1a)
+
 
 Lua-PC
 ```
