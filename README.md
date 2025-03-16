@@ -78,9 +78,19 @@ Flask is installed!
 
 ## Run
 ```
-FLASK_APP=server.py FLAS
-K_ENV=development flask run --host=0.0.0.0
+FLASK_APP=server.py FLASK_ENV=development flask run --host=0.0.0.0
 ```
+Lua-ios
+```
+python3 lua.py
+```
+![image](https://github.com/user-attachments/assets/cf381cb5-e8ea-47db-9cc6-3673d097ed1a)
+
+Lua-PC
+```
+run.bat
+```
+
 
 https://youtu.be/CFVsWxw8svU
 
