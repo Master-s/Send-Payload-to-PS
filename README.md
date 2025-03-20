@@ -1,5 +1,4 @@
-# PS5_PayloadsEN 
-# PS5_PayloadsAR
+# PS5_Payloads EN , AR
 The installation method requires Sideloadly for iOS versions 17.1 to 18.x
 
 iOS versions 17.0 16.x,15.x require TrollStore
